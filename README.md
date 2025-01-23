@@ -6,9 +6,9 @@
 
 | 工具名       | 效果图   | 二维码预览   |
 |--------------|-----------|-----------|
-| 视频解析  | ![image](https://github.com/user-attachments/assets/a2548430-e649-4a42-bdbc-77098b17a6a8)   | ![视频解析](https://github.com/user-attachments/assets/763cffc8-c07e-46fc-8427-147c733c798a) |
-| 万年历  | ![image](https://github.com/user-attachments/assets/a2548430-e649-4a42-bdbc-77098b17a6a8)   | ![万年历](https://github.com/user-attachments/assets/b145823b-0f7d-447c-bd42-4184b00b9a6c) |
-| 博客验证码  | ![image](https://github.com/user-attachments/assets/a2548430-e649-4a42-bdbc-77098b17a6a8)   |![博客验证码](https://github.com/user-attachments/assets/1a271965-bde9-4902-8d17-a67f0d7617de)|
+| 视频解析  | ![image](https://github.com/user-attachments/assets/020d47f1-263c-4f97-97a1-e594a69f8f7c)  | ![视频解析](https://github.com/user-attachments/assets/763cffc8-c07e-46fc-8427-147c733c798a) |
+| 万年历  | ![image](https://github.com/user-attachments/assets/31341133-e1e0-4771-a565-bb58ac78e8da)  | ![万年历](https://github.com/user-attachments/assets/b145823b-0f7d-447c-bd42-4184b00b9a6c) |
+| 博客验证码  | ![image](https://github.com/user-attachments/assets/b7476e8f-1fe7-4f19-a235-eba218428d56)  |![博客验证码](https://github.com/user-attachments/assets/1a271965-bde9-4902-8d17-a67f0d7617de)|
 | 亲戚计算器   | ![image](https://github.com/user-attachments/assets/a2548430-e649-4a42-bdbc-77098b17a6a8)   |  ![亲戚计算器](https://github.com/user-attachments/assets/e5d6d85e-6953-460c-a18f-9a805c0d12dd) |
 | 2048         | ![image](https://github.com/user-attachments/assets/b5956b11-d333-4b69-8114-2eb998dfc078)    |  不允许上架 |
 | 色彩识别度   |  ![image](https://github.com/user-attachments/assets/e7b619d3-29cc-4dab-99ba-f6d97761a4e6)    |![色彩识别度](https://github.com/user-attachments/assets/a356304c-2304-4f3b-ad36-54bd121c40ee)|
