@@ -5,10 +5,10 @@
 
 # 工具箱展示
 
-| 工具名       | 效果图   |
-|--------------|-----------|
-| 亲戚计算器   | ![](https://pic.nanbowan.top/picturebed/ac4faa475da15e0c.png)       |
-| 2048         | ![](https://pic.nanbowan.top/picturebed/57dac772f957623f.png)       |
+| 工具名       | 效果图   | 二维码预览   |
+|--------------|-----------|-----------|
+| 亲戚计算器   | ![](https://pic.nanbowan.top/picturebed/ac4faa475da15e0c.png)       |  ![](https://pic.nanbowan.top/picturebed/e7e7927bd3d4237b.png) |
+| 2048         | ![](https://pic.nanbowan.top/picturebed/57dac772f957623f.png)       |  被下架 |
 | 色彩识别度   | ![](https://pic.nanbowan.top/picturebed/4b5a9acadf65914e.png)        |
 | 血型查询     | ![](https://pic.nanbowan.top/picturebed/4838e04036e08359.png)       |
 | BMI计算器    | ![](https://pic.nanbowan.top/picturebed/704f3db946c44c00.png)       |
