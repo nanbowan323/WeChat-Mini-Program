@@ -1,8 +1,10 @@
 # 自用小程序
 借助GPT等各类AI工具尝试的练习，再原本视频解析、万年历工具的基础上，另新增大量工具，共计27款工具。
+首页：![](https://github.com/user-attachments/assets/78397803-6ee4-47fd-b88f-0a530d1dc2ad)
+工具箱：![](https://github.com/user-attachments/assets/0b6ac010-753b-4825-95b1-bf63ee74a37e)
 
 
-# 工具箱展示
+# 工具展示
 
 | 工具名       | 效果图   | 二维码预览   |
 |--------------|-----------|-----------|
